@@ -25,7 +25,7 @@ Sello is more than just a store application; it's a demonstration of the power o
 https://github.com/user-attachments/assets/2dd4de94-4f37-4d5a-8936-52de6c7c0ae8
 
 
-#### Explore the application post on LinkedIn: <a target="_blank" href="**************"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_dart-flutter-mobileappdevelopment-activity-7233012655840477184-2RUV?utm_source=share&utm_medium=member_desktop"> Click Here. </a>
 
 
 -----
